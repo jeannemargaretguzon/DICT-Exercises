@@ -1,6 +1,0 @@
-name = input("Name: ")
-age = input("Age: ")
-fav_color = input("Favorite Color: ")
-fav_movie = input("Favorite Movie: ")
-mobile_no = input("Mobile number: ")
-motto = input("Motto in life: ")
